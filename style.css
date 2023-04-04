@@ -2,3 +2,7 @@ bodu {
     background: black;
     color: white;
 }
+
+p {
+    text-transform: uppercase;
+}
